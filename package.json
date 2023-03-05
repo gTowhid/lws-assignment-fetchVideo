@@ -1,0 +1,14 @@
+{
+  "name": "assignment-5-videolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Golam Towhid",
+  "license": "MIT",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.3"
+  }
+}
